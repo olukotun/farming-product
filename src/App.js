@@ -1,10 +1,12 @@
+import AboutSection from "./component/AboutSection";
+import AboutUs from "./pages/AboutUs";
 
 
 function App() {
   return (
     <div className="App">
-      <h1>My agriculture produce</h1>
-    </div>
+     <AboutUs />
+     </div>
   );
 }
 
